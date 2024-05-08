@@ -18,7 +18,7 @@
       },
       "TG_BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "7098250905:AAF0bUJJoAGl2bocPDUWARIN5ZvkapRRNHo",
+          "value": "7098250905:AAGG7jodibyudPc49c-sWU3beIUunvOJoK0",
           "required": true
       },
       "OWNER": {
