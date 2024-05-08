@@ -18,12 +18,12 @@
       },
       "TG_BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "7115826141:AAHyK12NjRqdn_YSMgw0wr9z7lEZiddsUqE",
+          "value": "7098250905:AAF0bUJJoAGl2bocPDUWARIN5ZvkapRRNHo",
           "required": true
       },
       "OWNER": {
           "description":"Add Your username here",
-          "value": "https://t.me/Grand_Zeno_Omni_KingBot",
+          "value": "https://t.me/Zack_AFO",
           "required": true
       },
       "OWNER_ID": {
@@ -38,7 +38,7 @@
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1002122508523",
+        "value": "-1002063266681",
         "required": false
       },
       "DB_URL": {
@@ -53,7 +53,7 @@
       },
       "START_MESSAGE": {
         "description": "Optional: start message of bot, use HTML parsemode format",
-        "value": "Hello {mention}\n\nI am a file store bot Powered by @Anime_Factory_Official ⚡.",
+        "value": "Hello {mention}✨\n\nI am a file store bot Powered by @Anime_Carnival_4U ⚡.",
         "required": false
       },
       "FORCE_SUB_MESSAGE": {
@@ -68,7 +68,7 @@
       },
       "PROTECT_CONTENT": {
         "description": "Protect contents from getting forwarded",
-        "value": "False",
+        "value": "True",
         "required": false
       },
       "SECONDS": {
