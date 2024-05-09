@@ -19,7 +19,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>🧑‍💻 Creater :</b> <a href='https://t.me/Zack_AFO'>Zack</a> \n<b>📝 Language :</b> <a href='https://python.org'>Python 3</a> \n<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram {__version__}</a> \n<b>🚀 Server :</b> <a href='https://koyeb.com'>Koyeb</a> \n<b>📢 Channel :</b> <a href='https://t.me/Anime_Carnival_4U'>Anime Carnival</a> \n<b>🧑‍💻 Developer :</b> <a href='https://t.me/Zack_AFO'>Zack</a>",
+            text = f"<b>╔════════════⦿
+├⋗ 🧑‍💻 Creater :</b> <a href='https://t.me/Jack_AFO'>Jack</a> \n<b>📝 Language :</b> <a href='https://python.org'>Python 3</a> \n<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram {__version__}</a> \n<b>🚀 Server :</b> <a href='https://koyeb.com'>Koyeb</a> \n<b>📢 Channel :</b> <a href='https://t.me/Anime_Carnival_4U'>Anime Carnival</a> \n<b>🧑‍💻 Developer :</b> <a href='https://t.me/Jack_AFO'>Jack</a>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
